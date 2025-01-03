@@ -33,9 +33,11 @@ build-9607-perf-image
 `bitbake -c clean <package-name>`
 
 Or use `cleansstate` to invalidate cache additional
+
 `bitbake -c cleansstate <package-name>`
 
 Or use `cleanall` is like cleansstate and refech source additional
+
 `bitbake -c cleanall <package-name>`
 
 # Rebuild package standalone
