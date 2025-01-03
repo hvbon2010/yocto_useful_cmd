@@ -36,7 +36,7 @@ Or use `cleansstate` to invalidate cache additional
 
 `bitbake -c cleansstate <package-name>`
 
-Or use `cleanall` is like cleansstate and refech source additional
+Or use `cleanall` is like `cleansstate` and refech source additional
 
 `bitbake -c cleanall <package-name>`
 
